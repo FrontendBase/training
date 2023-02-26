@@ -1,0 +1,47 @@
+@import url('header.css');
+@import url('connecting_fonts.css');
+@import url('zeroing.css');
+@import url('media.css');
+
+.treaning__name {
+	font-size: 24px;
+	padding: 0 0 30px 0;
+}
+
+.treaning__info {
+	font-family: 'Gilroy-Medium';
+	font-size: 18px;
+	opacity: 0.7;
+	font-style: italic;
+	padding: 0 0 15px 0;
+}
+
+.treaning__list ol {
+	padding: 0 0 0 20px;
+}
+
+.treaning__list li {
+	font-size: 18px;
+	padding: 20px 0 0 20px;
+	line-height: 30px;
+}
+
+.treaning__list span {
+	font-style: italic;
+}
+
+.treaning__button {
+	margin: 20px 0 0 0;
+	padding: 20px;
+	/* border-radius: 10%; */
+	background: #2a27b8;
+	text-align: center;
+	box-shadow: 1px 1px 10px #757596;
+}
+
+.treaning__button a {
+	font-family: 'Gilory-Bold';
+	color: white;
+	font-weight: 400;
+	letter-spacing: 2px;
+}

@@ -1,0 +1,30 @@
+.container {
+	font-family: 'Gilroy-Medium';
+	padding: 20px 100px;
+}
+
+.header__row {
+	display: flex;
+	justify-content: center;
+	width: 100%;
+	height: 100%;
+	/* border: 2px solid #1a3591; */
+}
+
+.menu {
+	width: 50%;
+	height: 100%;
+	display: flex;
+	justify-content: space-between;
+}
+
+.menu a {
+	color: black;
+}
+
+.decor {
+	width: 100%;
+	height: 2px;
+	background: #4a38ad;
+	margin: 15px 0px;
+}

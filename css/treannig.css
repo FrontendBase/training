@@ -1,0 +1,51 @@
+@import url('zeroing.css');
+@import url('connecting_fonts.css');
+@import url('header.css');
+
+.treaning__photo img {
+	height: auto;
+	width: auto;
+	max-width: 100%;
+
+}
+
+.treaning__info {}
+
+.treaning__name {
+	text-align: center;
+	font-size: 20px;
+	padding: 20px 0 20px 0;
+}
+
+.treaninig__repetitions {
+	font-size: 18px;
+	opacity: 0.9;
+	text-align: center;
+}
+
+.treaning__buttons {
+	display: flex;
+	justify-content: space-between;
+	margin: 20px 0 0 0;
+}
+
+.treaning__buttons a {
+	text-decoration: none;
+	color: white;
+
+	padding: 10px;
+}
+
+.buttonNext {
+	width: 80%;
+	text-align: center;
+	font-family: 'Gilory-Bold';
+	color: white;
+	font-weight: 400;
+	letter-spacing: 2px;
+	background: #2a27b8;
+}
+
+.buttonExit {
+	background: rgb(168, 165, 172);
+}
